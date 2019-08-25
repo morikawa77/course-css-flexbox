@@ -483,6 +483,8 @@ div.wrapper-content aside.widgets .follow ul li .profile .info button {
   color: #cc0000;
   border: 1px solid #cc0000;
   border-radius: 16px;
+
+  background: #fff;
 }
 
 div.wrapper-content aside.widgets .follow ul li > a {
