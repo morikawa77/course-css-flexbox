@@ -192,6 +192,7 @@ div.bar .content .actions button {
   border: 1px solid #cc0000;
   border-radius: 16px;
   margin-right: 20px;
+  background: #fff;
 }
 
 div.wrapper-content {
