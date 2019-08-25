@@ -1,1 +1,3 @@
-# Project created for the Rocketseat's Bootcamp Extras - Flexbox course
+# Flexbox course
+
+Project created for the Rocketseat's Bootcamp Extras
